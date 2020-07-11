@@ -14,7 +14,8 @@ to make it work in your computer
 modules:
 1,tkinter(for gui)
 2,request( to make api requests and download images)
-2,pillow(to display images)
+3,pillow(to display images)
+4,json(to read the json file)
 
 what special in this weather app:
 
