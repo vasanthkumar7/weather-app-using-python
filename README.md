@@ -19,5 +19,5 @@ modules:
 what special in this weather app:
 
 1, it displays all the neccesary weather information
-2, each and eevry time it will show various icons based on the weather 
+2, each and every time it will show various icons based on the weather 
 
