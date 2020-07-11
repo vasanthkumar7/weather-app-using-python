@@ -2,6 +2,9 @@
 this weather use an api from openweathermap so this may change over time
 
 check out this website to get own free api key-https://openweathermap.org/api
+and subscribe to current weather data and then there will an api key copy that
+
+then add your api key to this link to make request:- http://api.openweathermap.org/data/2.5/weather?q="+cityname+"&appid=apikey
 
 to make it work in your computer
 
