@@ -20,5 +20,5 @@ and subscribe to current weather data and then there will an api key copy that</
 <h1>what special in this weather app:</h1><br>
 
 1, it displays all the neccesary weather information<br>
-2, each and every time it will show various icons based on the weather 
+2, each and every time it will show various icons based on the weather in that location
 
